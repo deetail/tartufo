@@ -48,3 +48,5 @@ import '/imports/plugins/included/taxes-avalara/client';
 import '/imports/plugins/included/taxes-taxcloud/client';
 import '/imports/plugins/included/taxes-taxjar/client';
 import '/imports/plugins/included/ui-search/client';
+import '/imports/plugins/custom/beesknees/client';
+import '/imports/plugins/custom/tartufo/client';

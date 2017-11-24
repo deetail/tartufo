@@ -99,3 +99,5 @@ import '/imports/plugins/included/social/register.js';
 import '/imports/plugins/included/taxes-avalara/register.js';
 import '/imports/plugins/included/taxes-taxcloud/register.js';
 import '/imports/plugins/included/ui-search/register.js';
+import '/imports/plugins/custom/beesknees/register.js';
+import '/imports/plugins/custom/tartufo/register.js';
